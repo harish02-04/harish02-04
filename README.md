@@ -10,7 +10,7 @@ Profile: https://auth.geeksforgeeks.org/user/hari21121it/practice
 
 
 ![t1](https://github.com/harish02-04/harish02-04/assets/121707427/69fd7e57-195e-4af7-b3c6-dd64041d0ef2)
-![t3](https://github.com/harish02-04/harish02-04/assets/121707427/ef54cd2e-01fe-470b-a6d9-e53469c30886)
+![t6](https://github.com/harish02-04/harish02-04/assets/121707427/bac44178-98cf-46ba-bb38-ac8fdfda2400)
 
 
 
