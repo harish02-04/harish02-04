@@ -17,6 +17,15 @@ Profile: https://auth.geeksforgeeks.org/user/hari21121it/practice
 ![js](https://github.com/harish02-04/harish02-04/assets/121707427/48c0d1ee-e6af-44f3-8054-45e23ba01ba9)
 ![bs](https://github.com/harish02-04/harish02-04/assets/121707427/b6e76aa9-3aad-4988-8f73-0a47886eb88a)
 
+<h1>Coding Languages</h1>
+
+![java](https://github.com/harish02-04/harish02-04/assets/121707427/4c98032e-ebb3-45a5-b9b0-a97bcd534181)
+![python](https://github.com/harish02-04/harish02-04/assets/121707427/c975c8a0-f3ce-4bcf-b982-bb6b08574bef)
+![c](https://github.com/harish02-04/harish02-04/assets/121707427/3807195b-529b-4041-9139-7b42475ef4eb)
+![c++](https://github.com/harish02-04/harish02-04/assets/121707427/e0e57021-2dec-4f31-b561-68a54a570db2)
+
+
+
 
 
 
