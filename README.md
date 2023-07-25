@@ -1,4 +1,4 @@
-<h1>𝖧𝖠𝖱𝖨𝖲𝖧 𝖵𝖠𝖨𝖳𝖧𝖨𝖸𝖠𝖫𝖨𝖭𝖦𝖠𝖬😎 Front-end-developer💻</h1>
+<h1>𝑯𝒂𝒓𝒊𝒔𝒉 𝑽𝒂𝒊𝒕𝒉𝒊𝒚𝒂𝒍𝒊𝒏𝒈𝒂𝒎😎 Front-end-developer💻</h1>
 
 <h2>Competitive-Coding</h2>
 
