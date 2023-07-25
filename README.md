@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">A passionate Frontend Developer 💻💻</h2>
+<h4 align="left">A passionate Frontend Developer 💻💻</h4>
 
 ###
 
