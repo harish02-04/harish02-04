@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="left">A passionate frontend developer 💻💻</h2>
+<h2 align="left">A Passionate <b>Frontend Developer</b> 💻💻</h2>
 
 ###
 
-<p align="left">🌱 I’m currently doing B.Tech Information Technology at Chennai<br><br>📫 How to reach me : https://www.linkedin.com/in/harish-vaithiyalingam-771386226/</p>
+<p align="left">🌱 I’m currently doing <b>B.Tech Information Technology</b> at Chennai<br><br>📫 How to reach me : https://www.linkedin.com/in/harish-vaithiyalingam-771386226/</p>
 
 ###
 
