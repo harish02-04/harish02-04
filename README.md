@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">A passionate <b>Frontend Developer</b> 💻💻</h3>
+<h2 align="left">A passionate frontend developer 💻💻</h2>
 
 ###
 
-<p align="left">🌱 I’m currently doing <b>B.Tech Information Technology</b> at Chennai<br><br>📫 How to reach me : https://www.linkedin.com/in/harish-vaithiyalingam-771386226/</p>
+<p align="left">🌱 I’m currently doing B.Tech Information Technology at Chennai<br><br>📫 How to reach me : https://www.linkedin.com/in/harish-vaithiyalingam-771386226/</p>
 
 ###
 
@@ -64,4 +64,9 @@
 
 <p align="left"></p>
 
+###
+
+<h2 align="left">Competitive Coding</h2>
+![gfg](https://github.com/harish02-04/harish02-04/assets/121707427/1007d680-67ba-48ff-bc6d-30ee5d6e959b)
+<h2 align="left">Profile: </h2>https://auth.geeksforgeeks.org/user/hari21121it
 ###
