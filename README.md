@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A passionate Frontend Developer 💻💻</h3>
+<h3 align="left">A passionate FullStack Developer 💻💻</h3>
 
 ###
 
