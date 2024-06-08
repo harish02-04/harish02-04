@@ -47,8 +47,7 @@
 
 ###
 
-<h2 align="left">Problem Solving</br>Languages:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<h2 align="left">Problem Solving
 </h2>
 
 ![gfg](https://github.com/harish02-04/harish02-04/assets/121707427/1007d680-67ba-48ff-bc6d-30ee5d6e959b)
