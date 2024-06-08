@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">Problem Solving</br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+<h2 align="left">Problem Solving</br><h3>Languages</h3>h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </h2>
 
